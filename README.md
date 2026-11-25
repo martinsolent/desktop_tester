@@ -1,5 +1,7 @@
 # Guided user testing
 
+![Logo](desktop_tester.png)
+
 A small user testing tool that runs on GitHub Pages. Testers open a link and see the website being tested, with a guide panel beside it. The panel gives one task at a time, reads each task out loud, and ticks it off when it's done. At the end, the results go to a Google Sheet, or the tester downloads a results file.
 
 It's built for websites tested on a laptop or desktop. It doesn't work on phones, and it says so if someone opens it on one.
