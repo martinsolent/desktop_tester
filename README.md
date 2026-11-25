@@ -34,7 +34,7 @@ The tester always opens the test in `tests/project/`, so you never need to chang
 
 1. On GitHub, open `tests/project/prototype/`, press **•••** at the top right and choose **Delete directory**, then **Commit changes**. This removes the sample café pages. (The `project` folder stays, because `test.json` is still in it.)
 2. Open `tests/project/` and use **Add file › Upload files** to drag in a folder called `prototype` that holds your prototype. Its first page must be called `index.html`. Commit.
-3. Open `builder.html?test=project` on your live site, e.g. `https://<your-username>.github.io/usertest/builder.html?test=project`. It loads the current test. Change the title, guide, welcome message and tasks for your prototype. Leave **Folder name** as `project`. [See the Builder Page Example in this Repo](builder.html)
+3. Open `builder.html?test=project` on your live site, e.g. `https://<your-username>.github.io/usertest/builder.html?test=project`. It loads the current test. Change the title, guide, welcome message and tasks for your prototype. Leave **Folder name** as `project`. [See the Builder Page Example in this Repo](https://martinsolent.github.io/desktop_tester/builder.html)
 4. Press **Download test.json** and upload it to `tests/project/`. A file with the same name replaces the old one. Commit.
 5. Wait a minute or two, then open your plain link (`https://<your-username>.github.io/usertest/`) and try the whole test yourself before sending it to testers.
 
